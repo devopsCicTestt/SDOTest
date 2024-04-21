@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //bhghghgh
         //fgdfgdg
         //hghghg
+        val x=5
     }
 }
